@@ -46,16 +46,3 @@ Hello! My name is <b>Gopal</b> and I'm pursuing <b>Computer Science</b>.
 
 ---
 
-## 🧠 Currently
-
-- 🔭 Working on Full Stack Projects  
-- 🌱 Learning System Design & Backend Scaling  
-- ⚡ Improving DSA daily  
-
----
-
-## ⚡ Fun
-
-<p>
-Code. Debug. Repeat. 🚀
-</p>

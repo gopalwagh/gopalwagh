@@ -1,9 +1,9 @@
 <h1 align="left">Hi there 👋</h1>
 
 <p>
-Hello! My name is <b>Gopal</b> and I'm pursuing <b>Computer Science</b>. <br>
-Interested in <b>Full Stack, DSA, Backend & Data Science</b>. <br>
-Let's collaborate and build something awesome 🚀
+Hello! My name is <b>Gopal</b> and I'm pursuing <b>Computer Science</b>.
+  Interested in <b>Full Stack, DSA, Backend & Data Science</b>.
+  Let's collaborate and build something awesome 🚀
 </p>
 
 ---

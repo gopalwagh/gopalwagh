@@ -18,10 +18,10 @@ Hello! My name is <b>Gopal</b> and I'm pursuing <b>Computer Science</b>.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gopalwagh&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gopalwagh&theme=tokyonight" />
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=gopalwagh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gopalwagh&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 ## 🌐 Connect With Me
@@ -45,4 +45,8 @@ Hello! My name is <b>Gopal</b> and I'm pursuing <b>Computer Science</b>.
 </p>
 
 ---
+---
 
+✨ Keep Coding, Keep Growing ✨
+
+---

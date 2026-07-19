@@ -44,18 +44,18 @@ A full-stack MERN marketplace with Customer, Seller, and Super-Admin roles, feat
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" style="height:25px"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" style="height:25px"/>
 <img src="https://img.shields.io/badge/LlamaIndex-7B42BC?style=flat-square" style="height:25px"/>
-<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white" style="height:25px"/>
 <img src="https://img.shields.io/badge/ReAct_Agents-111827?style=flat-square" style="height:25px"/>
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" style="height:25px"/>
 <img src="https://img.shields.io/badge/RBAC-1976D2?style=flat-square" style="height:25px"/>
 <img src="https://img.shields.io/badge/BullMQ-EA4AAA?style=flat-square" style="height:25px"/>
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" style="height:25px"/>
-<img src="https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white" style="height:25px"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" style="height:25px"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" style="height:25px"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" style="height:25px"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" style="height:25px"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" style="height:25px"/>
+<!-- <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" style="height:25px"/>
+<img src="https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white" style="height:25px"/> 
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white" style="height:25px"/>-->
 </p>
 
 ---

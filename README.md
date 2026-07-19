@@ -1,10 +1,27 @@
-<h1 align="left">Hi there 👋</h1>
+<h1 align="center">👋 Hi, I'm Gopal Wagh 🚀</h1>
 
-<p>
-Hello! My name is <b>Gopal</b> and I'm pursuing <b>Computer Science</b>.
-  Interested in <b>Full Stack, DSA, Backend & Data Science</b>.
-  Let's collaborate and build something awesome 🚀
+<h3 align="center">
+Full Stack Developer | MERN | Django | Java | AI Agents
+</h3>
+
+<p align="center">
+Developer focused on building scalable products, mastering DSA, and solving real-world problems.
 </p>
+
+---
+
+# 💡 About Me
+
+<img align="right" alt="Coding" width="270" src="./assests/isagidd.gif"/>
+
+
+- 🚀 Currently building **VendorSphere**
+- 📚 Learning **Django, AI Agents & Advanced DSA**
+- 💻 Love Backend Development
+- 🤝 Seeking guidance in AI and RAG
+- 👯 Open to collaborate on Web Dev & Open Source
+- 💬 Ask me about **Java, MERN, Backend, Django & DSA**
+- 📫 Reach me at **gopalwagh135@gmail.com**
 
 ---
 

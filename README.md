@@ -39,7 +39,6 @@
   <!-- backend -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" style="height:32px;" hspace="6" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" style="height:32px;"hspace="6" />
-  <br><br>
   <!-- Database -->
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" style="height:32px;" hspace="6" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" style="height:32px;" hspace="6"/>
@@ -50,7 +49,6 @@
   <img src="https://img.shields.io/badge/ReAct_Agents-111827?style=flat-square" style="height:32px;" hspace="6" />
   <!-- Auth & backend tools -->
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" style="height:32px;" hspace="6" />
-  <br><br>
   <img src="https://img.shields.io/badge/RBAC-1976D2?style=flat-square" style="height:32px;" hspace="6" />
   <img src="https://img.shields.io/badge/BullMQ-EA4AAA?style=flat-square" style="height:32px;" hspace="6" />
   <!-- other Tools -->

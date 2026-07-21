@@ -23,11 +23,16 @@
 ## 🚀 Featured Project
 
 ### [VendorSphere — Multi-Vendor Marketplace with Agentic AI Business Copilot](https://github.com/gopalwagh/VendorSphere)
-A full-stack MERN marketplace with Customer, Seller, and Super-Admin roles, featuring a **ReAct-agent-powered Business Copilot** (LlamaIndex + Google Gemini) that answers natural-language business questions grounded in live MongoDB aggregations — with server-enforced tenant isolation, async bulk product ingestion via Redis/BullMQ, and real-time alerts via Firebase Cloud Messaging.
+
+> **An enterprise-grade MERN marketplace that transforms raw e-commerce data into actionable seller insights using an LLM ReAct agent.**
+
+- 🤖 **Agentic Business Copilot:** Natural-language analytics grounded directly in live MongoDB aggregations (LlamaIndex + Google Gemini) with zero-trust tenant isolation.
+- ⚡ **High-Throughput Ingestion:** Asynchronous bulk product processing (100+ items) via Redis & BullMQ queues to prevent UI blocking.
+- 🛡️ **Production Security & Real-Time Alerts:** Role-Based Access Control (RBAC), JWT in HTTP-only cookies, and FCM push notifications for order/inventory updates.
 
 `MERN` `LlamaIndex` `Google Gemini` `ReAct Agents` `Redis` `BullMQ` `MongoDB Aggregation` `JWT/RBAC`
 
-🔗 [Live Demo](https://vendor-sphere-seven.vercel.app/) &nbsp;|&nbsp; [Source Code](https://github.com/gopalwagh/VendorSphere)
+🔗 [Live Demo](https://vendor-sphere-seven.vercel.app/) &nbsp;|&nbsp; 🐙 [Source Code](https://github.com/gopalwagh/VendorSphere)
 
 ---
 

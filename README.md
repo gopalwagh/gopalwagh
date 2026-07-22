@@ -30,7 +30,7 @@
 - ⚡ **High-Throughput Ingestion:** Asynchronous bulk product processing (100+ items) via Redis & BullMQ queues to prevent UI blocking.
 - 🛡️ **Production Security & Real-Time Alerts:** Role-Based Access Control (RBAC), JWT in HTTP-only cookies, and FCM push notifications for order/inventory updates.
 
-`MERN` `LlamaIndex` `Google Gemini` `ReAct Agents` `Redis` `BullMQ` `MongoDB Aggregation` `JWT/RBAC`
+`MERN` `LlamaIndex` `Google Gemini` `ReAct Agents` `Redis` `BullMQ` `MongoDB Aggregation` `JWT/RBAC` `Cloudinary` `Razorpay`
 
 🔗 [Live Demo](https://vendor-sphere-seven.vercel.app/) &nbsp;|&nbsp; 🐙 [Source Code](https://github.com/gopalwagh/VendorSphere)
 
@@ -58,9 +58,9 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" style="height:25px"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" style="height:25px"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" style="height:25px"/>
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" style="height:25px"/>
+<!-- <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" style="height:25px"/>
 <img src="https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white" style="height:25px"/> 
-<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white" style="height:25px"/>
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white" style="height:25px"/> -->
 </p>
 
 ---

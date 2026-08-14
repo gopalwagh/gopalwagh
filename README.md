@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Gopal Wagh 🚀</h1>
-<h3 align="center">Full Stack Developer | MERN | Django | Java | AI Agents</h3>
+<h3 align="center">Full Stack Developer | MERN | FastApi | Java | AI Agents</h3>
 
 <p align="center">Developer focused on building scalable products, mastering DSA, and solving real-world problems.</p>
 
@@ -10,12 +10,11 @@
 <img align="right" alt="Coding" width="300" src="./assests/isagidd.gif"/>
 
 - 🎓 Undergraduate **Computer Science Student** 
-- 🚀 Currently building **VendorSphere**
-- 📚 Learning **Django, AI Agents & Advanced DSA**
+- 📚 Learning **FastApi, AI Agents & Advanced DSA**
 - 💻 Love Backend Development
 - 🤝 Seeking guidance in AI and RAG
 - 👯 Open to collaborate on Web Dev & Open Source
-- 💬 Ask me about **Java, MERN, Backend, Django & DSA**
+- 💬 Ask me about **Java, MERN, Backend, FastApi & DSA**
 - 📫 Reach me at **gopalwagh135@gmail.com**
 
 ---
@@ -42,10 +41,12 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" style="height:25px"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" style="height:25px"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" style="height:25px"/>
+<img src="https://img.shields.io/badge/FastApi-47A248?style=flat-square&logo=fastapi&logoColor=black" style="height:25px"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" style="height:25px"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" style="height:25px"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" style="height:25px"/>
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" style="height:25px"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" style="height:25px"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" style="height:25px"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" style="height:25px"/>
 <img src="https://img.shields.io/badge/LlamaIndex-7B42BC?style=flat-square" style="height:25px"/>
@@ -77,11 +78,22 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="mailto:waghgopal9860@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/gopal-wagh-9ba402385/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/gopal_wagh97/?hl=en"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<!-- TODO: replace your-id below with your real Discord user ID -->
-<a href="https://discord.com/users/your-id"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="mailto:waghgopal9860@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gopal-wagh-9ba402385/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/gopal_wagh97/?hl=en">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <!-- TODO: replace your-id below with your real Discord user ID -->
+  <a href="https://discord.com/users/your-id">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://x.com/gopal_wagh_97">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
 </p>
 
 ---
